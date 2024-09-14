@@ -220,8 +220,7 @@
 
 ## Step : 1 Download hackingtool
 
-    git clone https://github.com/Z4nzu/hackingtool.git
-
+https://github.com/kushalsapkota/hackingtool
 ## Step : 2 Give Permission to hackingtool
     
     chmod -R 755 hackingtool  
